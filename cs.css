@@ -1,0 +1,7 @@
+.casilla
+{
+    width: 130%;
+    height: 100px;
+    margin-top:0%;
+    /*pointer-events: none;*/
+}
